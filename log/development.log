@@ -1,0 +1,6 @@
+
+
+Processing HomepageController#index (for 127.0.0.1 at 2010-08-18 21:22:36) [GET]
+Rendering template within layouts/layout
+Rendering homepage/index
+Completed in 46ms (View: 44, DB: 0) | 200 OK [http://localhost/]
