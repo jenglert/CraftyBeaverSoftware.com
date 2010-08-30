@@ -593,7 +593,15 @@ ul.sideMenu {
   background: #555 url(../images/bg/gradient.jpg) repeat-x bottom left; 
 }
 
+.pathScreenshot {
+	margin: 0 13px;
+	padding: 2px;
+	border: 2px solid #E7CD53;
+}
 
+.pathScreenshots {
+	padding-left: 15px;
+}
 
 
 
